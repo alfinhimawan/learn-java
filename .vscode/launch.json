@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VideoStore",
+            "request": "launch",
+            "mainClass": "learn.learn_inheritance.VideoStore",
+            "projectName": "Learn-Java_4560c454"
+        },
+        {
+            "type": "java",
+            "name": "LibrarySystem",
+            "request": "launch",
+            "mainClass": "learn.final_project.LibrarySystem",
+            "projectName": "Learn-Java_4560c454"
+        },
+        {
+            "type": "java",
+            "name": "ParkingQueueSystem",
+            "request": "launch",
+            "mainClass": "learn.final_project.ParkingQueueSystem",
+            "projectName": "Learn-Java_4560c454"
+        },
+        {
+            "type": "java",
+            "name": "LaundrySystem",
+            "request": "launch",
+            "mainClass": "learn.final_project.LaundrySystem",
+            "projectName": "Learn-Java_4560c454"
+        },
+        {
+            "type": "java",
+            "name": "CashierApp",
+            "request": "launch",
+            "mainClass": "learn.final_project.CashierApp",
+            "projectName": "Learn-Java_4560c454"
+        },
+        {
+            "type": "java",
+            "name": "MuatanTruk",
+            "request": "launch",
+            "mainClass": "learn.Practical_Class_Object.MuatanTruk",
+            "projectName": "Learn-Java_4560c454"
+        },
+        {
+            "type": "java",
+            "name": "DemoKotak1",
+            "request": "launch",
+            "mainClass": "learn.learn_class_object.DemoKotak1",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_4",
+            "request": "launch",
+            "mainClass": "learn.learn_method.Exercise_4",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_3",
+            "request": "launch",
+            "mainClass": "learn.learn_method.Exercise_3",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_2",
+            "request": "launch",
+            "mainClass": "learn.learn_method.Exercise_2",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AverageCalculator",
+            "request": "launch",
+            "mainClass": "learn.Avarage_Rectangle_Calculator.AverageCalculator",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "RectangleCalculator",
+            "request": "launch",
+            "mainClass": "learn.Avarage_Rectangle_Calculator.RectangleCalculator",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "UTS_Pemrograman",
+            "request": "launch",
+            "mainClass": "learn.Midterm_Programming_Exam.UTS_Pemrograman",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "tugas_1",
+            "request": "launch",
+            "mainClass": "learn.Practical_Assignment_3.tugas_1",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "tugas_2",
+            "request": "launch",
+            "mainClass": "learn.Practical_Assignment_3.tugas_2",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "OperasiAritmatika",
+            "request": "launch",
+            "mainClass": "learn.Practical_Assignment_4.OperasiAritmatika",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "learn.Practical_Assignment_5.GradeCalculator",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "RangeCalculator",
+            "request": "launch",
+            "mainClass": "learn.Practical_Assignment_5.RangeCalculator",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "PolaSegitiga",
+            "request": "launch",
+            "mainClass": "learn.Practical_Assignment_6.PolaSegitiga",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Array_1",
+            "request": "launch",
+            "mainClass": "learn.learn_array.Array_1",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Array_2",
+            "request": "launch",
+            "mainClass": "learn.learn_array.Array_2",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Array_3",
+            "request": "launch",
+            "mainClass": "learn.learn_array.Array_3",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Array_4",
+            "request": "launch",
+            "mainClass": "learn.learn_array.Array_4",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Array_5",
+            "request": "launch",
+            "mainClass": "learn.learn_array.Array_5",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "learn.learn_java.App",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Aritmatika",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Aritmatika",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "learn.learn_java.DoWhile",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Echo",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Echo",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Example1",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Example2",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Example2",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Example3",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Example3",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "learn.learn_java.For",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "HitungLuasLingkaran",
+            "request": "launch",
+            "mainClass": "learn.learn_java.HitungLuasLingkaran",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "HitungLuasPersegi",
+            "request": "launch",
+            "mainClass": "learn.learn_java.HitungLuasPersegi",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Indata",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Indata",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Indata_2",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Indata_2",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "LuasPersegiPanjang",
+            "request": "launch",
+            "mainClass": "learn.learn_java.LuasPersegiPanjang",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Main",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Seleksi_If",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Seleksi_If",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Seleksi_If_Else",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Seleksi_If_Else",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Seleksi_If_Elseif",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Seleksi_If_Elseif",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Seleksi_Switch",
+            "request": "launch",
+            "mainClass": "learn.learn_java.Seleksi_Switch",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "SwitchExample",
+            "request": "launch",
+            "mainClass": "learn.learn_java.SwitchExample",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "learn.learn_java.While",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "indata_3",
+            "request": "launch",
+            "mainClass": "learn.learn_java.indata_3",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "kondisi_if",
+            "request": "launch",
+            "mainClass": "learn.learn_java.kondisi_if",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "kondisi_if_else",
+            "request": "launch",
+            "mainClass": "learn.learn_java.kondisi_if_else",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "kondisi_if_elseif_else",
+            "request": "launch",
+            "mainClass": "learn.learn_java.kondisi_if_elseif_else",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "switchBuah",
+            "request": "launch",
+            "mainClass": "learn.learn_java.switchBuah",
+            "projectName": "Learn-Java_c3d606b0"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_1",
+            "request": "launch",
+            "mainClass": "learn.learn_method.Exercise_1",
+            "projectName": "Learn-Java_c3d606b0"
+        }
+    ]
+}
